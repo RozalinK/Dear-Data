@@ -1,0 +1,26 @@
+ID	Date	Time	Drink	Amount (ml)	Temperature	Location	Cup type
+1	12 Oct	08:10	Water	250	Cold	Home kitchen	Glass cup
+2	12 Oct	09:20	Latte	300	Hot	Costa Coffee	Paper takeaway cup
+3	12 Oct	12:35	Orange juice	200	Cold	University campus	Plastic cup
+4	13 Oct	08:00	Water	300	Room temperature	Home kitchen	Glass cup
+5	13 Oct	10:45	Iced matcha latte	350	Cold	Starbucks	Clear plastic cup
+6	13 Oct	13:10	Apple juice	200	Cold	Train	Plastic bottle
+7	14 Oct	08:25	Water	250	Cold	Home kitchen	Glass cup
+8	14 Oct	11:00	Latte	350	Hot	University library	Ceramic mug
+9	14 Oct	15:20	Coca-Cola Zero	330	Cold	Bedroom	Can
+10	15 Oct	08:15	Water	300	Cold	Home kitchen	Glass cup
+11	15 Oct	10:30	Innocent smoothie	250	Cold	Underground	Plastic bottle
+12	15 Oct	14:00	Chamomile tea	200	Hot	Living room	Ceramic mug
+13	16 Oct	08:40	Water	250	Cold	Home kitchen	Glass cup
+14	16 Oct	12:15	Iced latte	350	Cold	Starbucks	Clear plastic cup
+15	16 Oct	16:30	Orange juice	250	Cold	Shopping centre	Plastic cup
+16	17 Oct	09:30	Turkish tea	125	Hot	Home kitchen	Turkish tea glass
+17	17 Oct	11:45	Water	350	Cold	Living room	Glass cup
+18	17 Oct	15:00	Hot chocolate	250	Hot	Costa Coffee	Paper takeaway cup
+19	17 Oct	19:30	Turkish tea	150	Hot	Living room	Turkish tea glass
+20	18 Oct	10:00	Apple juice	250	Cold	Home kitchen	Glass cup
+21	18 Oct	12:30	Water	250	Cold	Bedroom	Glass cup
+22	18 Oct	16:00	Turkish tea	125	Hot	Living room	Turkish tea glass
+23	19 Oct	08:20	Water	350	Cold	Home kitchen	Glass cup
+24	19 Oct	09:45	Matcha latte	300	Hot	Home kitchen	Ceramic mug
+25	19 Oct	13:00	Innocent smoothie	300	Cold	University campus	Plastic bottle
