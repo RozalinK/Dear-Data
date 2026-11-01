@@ -57,34 +57,34 @@ rect(280,45,40,115);
 }
 // Scale the diameter according to the recorded amount
 void drawDrink(float x, float y, float amounts, int drinkTypes) {
-  float diameter = map(amounts,200,350,10,18);
+  float diameter = map(amounts,200,350,12,20);
   
 if (drinkTypes == 0) {
-  fill(#B2E7FF); //Water
+  fill(#B2E7FF); //Water - blue circles
 }
 else if (drinkTypes == 1) {
-  fill(#D8BF90); //Latte
+  fill(#D8BF90); //Latte - light brown circles
 }
 else if (drinkTypes == 2) {
-  fill(#FFF6A2); //Orange Juice
+  fill(#FFF6A2); //Orange Juice - yellow circles
 }
 else if (drinkTypes == 3) {
-  fill(#BEFFAD); //Matcha
+  fill(#BEFFAD); //Matcha - green circles
 }
   else if (drinkTypes == 4) {
-  fill(#FFB36B); // Apple juice
+  fill(#FFB36B); // Apple juice - orange circles
 }
 else if (drinkTypes == 5) {
-  fill(#F57979); // Coca-Cola Zero
+  fill(#F57979); // Coca-Cola Zero - red circles
 }
 else if (drinkTypes == 6) {
-  fill(#FF9FBD); // Innocent smoothie
+  fill(#FF9FBD); // Innocent smoothie - pink circles
 }
 else if (drinkTypes == 7) {
-  fill(#DCCB9A); // Chamomile tea
+  fill(#DCCB9A); // Chamomile tea - purple circles
 } 
 else if (drinkTypes == 8) {
-  fill(#B56B45); // Turkish tea
+  fill(#B56B45); // Turkish tea - beige circles
 }
 // Draw the data point at its assigned position
 noStroke();
